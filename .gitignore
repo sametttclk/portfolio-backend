@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### PROJE ÖZEL GİZLİLİK ###
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+### IDE ve SİSTEM DOSYALARI ###
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+/target/
+out/
